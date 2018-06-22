@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\scott\desktop\c++\sdl_game\101game\simplebattleships c++\simplebattleships c++\main.cpp(92): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  simpleBattleShips C++.vcxproj -> C:\Users\Scott\Desktop\c++\SDL_Game\101Game\simpleBattleShips C++\Debug\simpleBattleShips C++.exe
